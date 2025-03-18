@@ -13,4 +13,6 @@ The internship provided hands-on experience in data analytics, data visualizatio
 3. Analytical Thinking for Business Decision-Making
    
 **Completion Certificate**
+
+
 ![image](https://github.com/user-attachments/assets/65993708-35dd-45aa-b3d8-93796e6f47c0)
